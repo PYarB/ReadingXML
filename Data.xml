@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<result>
+  <classXII>
+    <Roll>1</Roll>
+    <Name>Abhaya</Name>
+    <Maths>67</Maths>
+    <English>75</English>
+    <Science>80</Science>
+    <Social>62</Social>
+  </classXII>
+  <classXII>
+    <Roll>2</Roll>
+    <Name>Vikas</Name>
+    <Maths>44</Maths>
+    <English>71</English>
+    <Science>60</Science>
+    <Social>56</Social>
+  </classXII>
+  <classXII>
+    <Roll>3</Roll>
+    <Name>Rakesh</Name>
+    <Maths>92</Maths>
+    <English>87</English>
+    <Science>90</Science>
+    <Social>60</Social>
+  </classXII>
+  <classXII>
+    <Roll>4</Roll>
+    <Name>Deepak</Name>
+    <Maths>88</Maths>
+    <English>45</English>
+    <Science>70</Science>
+    <Social>70</Social>
+  </classXII>
+
+  <classXI>
+    <Roll>101</Roll>
+    <Name>Abhaya Kumar</Name>
+    <Maths>67</Maths>
+    <English>75</English>
+    <Science>80</Science>
+    <Social>62</Social>
+  </classXI>
+  <classXI>
+    <Roll>102</Roll>
+    <Name>Vikas Rathore</Name>
+    <Maths>44</Maths>
+    <English>71</English>
+    <Science>60</Science>
+    <Social>56</Social>
+  </classXI>
+  <classXI>
+    <Roll>103</Roll>
+    <Name>Rakesh Singh</Name>
+    <Maths>92</Maths>
+    <English>87</English>
+    <Science>90</Science>
+    <Social>60</Social>
+  </classXI>
+  <classXI>
+    <Roll>104</Roll>
+    <Name>Deepak Raj</Name>
+    <Maths>88</Maths>
+    <English>45</English>
+    <Science>70</Science>
+    <Social>70</Social>
+  </classXI>
+
+</result>
